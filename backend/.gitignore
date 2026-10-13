@@ -1,0 +1,5 @@
+.env
+.venv
+.postgres
+__pycache__/
+*.pyc
